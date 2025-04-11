@@ -1,0 +1,8 @@
+runtime: nodejs20  # Use the appropriate Node.js version supported by App Engine
+
+env_variables:
+  NODE_ENV: production
+
+handlers:
+- url: /.*
+  script: auto  
