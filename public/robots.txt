@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.spotnxt.com
+
+# Sitemaps
+Sitemap: https://www.spotnxt.com/sitemap.xml
