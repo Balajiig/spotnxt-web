@@ -1,7 +1,6 @@
 "use client";
 
 import React, { useState } from "react";
-import Head from "next/head";
 import Image from "next/image";
 import logo from "@/public/logo.svg"; // Ensure this image exists or update the path
 
