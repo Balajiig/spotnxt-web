@@ -33,36 +33,7 @@ export default function SpotnxtLanding() {
   };
 
   return (
-    <>
-    <Head>
-      <title>Run smarter ads without a marketing team – with Spotnxt AI</title>
-      <meta
-        name="description"
-        content="Spotnxt is your AI ad assistant that plans, designs, launches, and optimizes your ads across Meta and Google — no expertise needed."
-      />
-      <meta name="viewport" content="width=device-width, initial-scale=1" />
-      <meta name="robots" content="index, follow" />
-      <link rel="canonical" href="https://www.spotnxt.com" />
-
-      {/* Open Graph Tags */}
-      <meta property="og:title" content="Run smarter ads with Spotnxt AI" />
-      <meta
-        property="og:description"
-        content="Let Spotnxt AI run your digital ads while you sleep. No marketing team required."
-      />
-      <meta property="og:url" content="https://www.spotnxt.com" />
-      <meta property="og:type" content="website" />
-      <meta property="og:image" content="https://www.spotnxt.com/og-image.png" />
-
-      {/* Twitter Card */}
-      <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:title" content="Run smarter ads with Spotnxt AI" />
-      <meta
-        name="twitter:description"
-        content="Spotnxt AI creates, runs, and optimizes your ads with zero marketing effort."
-      />
-      <meta name="twitter:image" content="https://www.spotnxt.com/og-image.png" />
-    </Head>
+    
 
 
     <main className="min-h-screen bg-gradient-to-b from-green-500 via-blue-500 to-black text-white font-sans">
@@ -168,6 +139,6 @@ export default function SpotnxtLanding() {
         © 2025 Spotnxt | Built with love by product experts.
       </footer>
     </main>
-  </>
+
   );
 }
